@@ -1,0 +1,14 @@
+{
+  "name": "lang",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matt",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "compile": "node index.js"
+  },
+  "dependencies": {
+    "commander": "^13.0.0"
+  }
+}
